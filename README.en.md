@@ -63,7 +63,7 @@ The entire simulation runs in the terminal, allowing you to follow each race ste
 ```bash
 .
 ├── src/                      # Main source code
-│   ├── entities/             # Character/game structure definitions
+│   ├── services/             # Core game engine logic and business rules
 │   ├── utils/                # Utility functions
 │   └── index.js              # Simulation entry point
 ├── package.json              # Dependencies and npm scripts
