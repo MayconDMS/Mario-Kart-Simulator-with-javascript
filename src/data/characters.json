@@ -1,0 +1,44 @@
+[
+    { 
+        "name": "Mario",
+        "speed": 5,
+        "maneuverability": 5,
+        "power": 5
+    },
+    {
+        "name": "Luigi",
+        "speed": 5,
+        "maneuverability": 5,
+        "power": 5
+    },
+    {
+        "name": "Peach",
+        "speed": 4,
+        "maneuverability": 6,
+        "power": 5
+    },
+    {
+        "name": "Bowser",
+        "speed": 6,
+        "maneuverability": 4,
+        "power": 4
+    },
+    {
+        "name": "Yoshi",
+        "speed": 5,
+        "maneuverability": 5,
+        "power": 6
+    },
+    {
+        "name": "Toad",
+        "speed": 4,
+        "maneuverability": 6,
+        "power": 5
+    },
+    {
+        "name": "Donkey Kong",
+        "speed": 6,
+        "maneuverability": 4,
+        "power": 4
+    }
+]
