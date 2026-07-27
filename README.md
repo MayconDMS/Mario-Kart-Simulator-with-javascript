@@ -2,6 +2,8 @@
 
 # 🏁 Mario Kart Simulator com JavaScript
 
+[🇧🇷 Português](./README.md) • [🇺🇸 English](./README.en.md)
+
 **Simulador de corrida no terminal com personagens do universo Mario Kart usando Node.js e JavaScript**
 
 [![Node.js](https://img.shields.io/badge/Node.js-v20+-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
