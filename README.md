@@ -63,7 +63,7 @@ Toda a simulação acontece no terminal, permitindo acompanhar cada etapa da cor
 ```bash
 .
 ├── src/                      # Código-fonte principal
-│   ├── entities/             # Definições de personagens/estruturas do jogo
+│   ├── services/             # Motor do jogo e regras de negócio
 │   ├── utils/                # Funções utilitárias
 │   └── index.js              # Ponto de entrada da simulação
 ├── package.json              # Dependências e scripts npm
